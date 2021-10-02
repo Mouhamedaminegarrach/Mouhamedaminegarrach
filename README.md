@@ -1,7 +1,6 @@
 # Hi, I’m Mohamed Amine
 
 - 🌱 Quantum Algorithms & Quantum Cryptography
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mouhamed.garrch@gmail.com
 
 <!---
